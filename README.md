@@ -88,7 +88,7 @@ WebSage is an intelligent Chrome extension that understands the content of the w
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/WebSage.git
+git clone https://github.com/Shivangrmittal/WebSage-AI.git
 
 cd WebSage
 ```
